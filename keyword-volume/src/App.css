@@ -25,7 +25,8 @@
 }
 
 .search-result{
-  font-size: 1.5em;
+  margin-top: 0.5em;
+  font-size: 2.5em;
 }
 
 input{
